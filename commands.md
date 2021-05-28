@@ -1,2 +1,2 @@
-#Untracking all git files/folder<br>
+# Untracking all git files/folder<br>
 `git rm -r --cached .`
